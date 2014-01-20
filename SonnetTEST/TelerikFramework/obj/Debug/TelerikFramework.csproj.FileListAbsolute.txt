@@ -1,0 +1,10 @@
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\bin\Debug\TelerikFramework.dll
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\bin\Debug\TelerikFramework.pdb
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\bin\Debug\SonnetTESTLib.dll
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\bin\Debug\NPOI.dll
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\bin\Debug\SonnetTESTLib.pdb
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\bin\Debug\NPOI.xml
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\obj\Debug\TelerikFramework.csprojResolveAssemblyReference.cache
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\obj\Debug\TelerikFramework.dll
+C:\SageDev\SonnetTEST\SonnetTEST\TelerikFramework\obj\Debug\TelerikFramework.pdb

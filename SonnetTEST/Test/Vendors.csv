@@ -1,0 +1,2 @@
+Run,VensorNo,VendorName,VendorShrtName,VendorLegalName,GroupCode,StartDate,AccountSet,TermCode,BankCode,PaymentCode,DistributionSet,VendorAndAmount
+RequiredField,1,Sonata-software,SSL,Sonata-Software,54,1/15/2014,1,1,1,1,G/L Account,Warning

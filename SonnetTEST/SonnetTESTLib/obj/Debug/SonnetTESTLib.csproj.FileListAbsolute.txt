@@ -1,0 +1,9 @@
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\bin\Debug\SonnetTESTLib.dll
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\bin\Debug\SonnetTESTLib.pdb
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\bin\Debug\NPOI.dll
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\bin\Debug\NPOI.xml
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\obj\Debug\SonnetTESTLib.csprojResolveAssemblyReference.cache
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\obj\Debug\SonnetTESTLib.csproj.ResolveComReference.cache
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\obj\Debug\SonnetTESTLib.dll
+C:\SageDev\SonnetTEST\SonnetTEST\SonnetTESTLib\obj\Debug\SonnetTESTLib.pdb

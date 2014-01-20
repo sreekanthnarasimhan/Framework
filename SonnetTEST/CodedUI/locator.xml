@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<locator>
+	<BrowserWindow>
+		<element key="id">BrowserWindow.PropertyNames.Id</element>
+		<element key="name">BrowserWindow.PropertyNames.Name</element>
+		<element key="class">BrowserWindow.PropertyNames.Class</element>
+		<element key="classname">BrowserWindow.PropertyNames.ClassName</element>
+		<element key="controltype">BrowserWindow.PropertyNames.ControlType</element>
+		<element key="container">BrowserWindow.PropertyNames.Container</element>
+		<element key="currentdocumentwindow">BrowserWindow.PropertyNames.CurrentDocumentWindow</element>
+		<element key="title">BrowserWindow.PropertyNames.Title</element>
+	</BrowserWindow>
+
+	<Edit>
+		<element key="id">HtmlEdit.PropertyNames.Id</element>
+		<element key="name">HtmlEdit.PropertyNames.Name</element>
+		<element key="class">HtmlEdit.PropertyNames.Class</element>
+		<element key="classname">HtmlEdit.PropertyNames.ClassName</element>
+		<element key="value">HtmlEdit.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlEdit.PropertyNames.Text</element>
+		<element key="title">HtmlEdit.PropertyNames.Title</element>
+		<element key="readonly">HtmlEdit.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlEdit.PropertyNames.Enabled</element>
+		<element key="type">HtmlEdit.PropertyNames.Type</element>
+		<element key="tagname">HtmlEdit.PropertyNames.TagName</element>
+		<element key="helptext">HtmlEdit.PropertyNames.HelpText</element>
+		<element key="size">HtmlEdit.PropertyNames.Size</element>
+		<element key="src">HtmlEdit.PropertyNames.Src</element>
+		<element key="controldef">HtmlEdit.PropertyNames.ControlDefinition</element>
+		<element key="innertext">HtmlEdit.PropertyNames.InnerText</element>
+	</Edit>
+
+	<Image>
+		<element key="id">HtmlImage.PropertyNames.Id</element>
+		<element key="name">HtmlImage.PropertyNames.Name</element>
+		<element key="class">HtmlImage.PropertyNames.Class</element>
+		<element key="classname">HtmlImage.PropertyNames.ClassName</element>
+		<element key="value">HtmlImage.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlImage.PropertyNames.Text</element>
+		<element key="title">HtmlImage.PropertyNames.Title</element>
+		<element key="readonly">HtmlImage.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlImage.PropertyNames.Enabled</element>
+		<element key="type">HtmlImage.PropertyNames.Type</element>
+		<element key="tagname">HtmlImage.PropertyNames.TagName</element>
+		<element key="helptext">HtmlImage.PropertyNames.HelpText</element>
+		<element key="size">HtmlImage.PropertyNames.Size</element>
+		<element key="path">HtmlImage.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlImage.PropertyNames.Src</element>
+		<element key="controldef">HtmlImage.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlImage.PropertyNames.TagInstance</element>
+		<element key="href">HtmlImage.PropertyNames.Href</element>
+		<element key="innertext">HtmlImage.PropertyNames.InnerText</element>
+	</Image>
+
+	<CheckBox>
+		<element key="id">HtmlCheckBox.PropertyNames.Id</element>
+		<element key="name">HtmlCheckBox.PropertyNames.Name</element>
+		<element key="class">HtmlCheckBox.PropertyNames.Class</element>
+		<element key="classname">HtmlCheckBox.PropertyNames.ClassName</element>
+		<element key="value">HtmlCheckBox.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlCheckBox.PropertyNames.Text</element>
+		<element key="title">HtmlCheckBox.PropertyNames.Title</element>
+		<element key="readonly">HtmlCheckBox.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlCheckBox.PropertyNames.Enabled</element>
+		<element key="type">HtmlCheckBox.PropertyNames.Type</element>
+		<element key="tagname">HtmlCheckBox.PropertyNames.TagName</element>
+		<element key="helptext">HtmlCheckBox.PropertyNames.HelpText</element>
+		<element key="controldef">HtmlCheckBox.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlCheckBox.PropertyNames.TagInstance</element>
+		<element key="innertext">HtmlCheckBox.PropertyNames.InnerText</element>
+	</CheckBox>
+
+	<ComboBox>
+		<element key="id">HtmlComboBox.PropertyNames.Id</element>
+		<element key="name">HtmlComboBox.PropertyNames.Name</element>
+		<element key="class">HtmlComboBox.PropertyNames.Class</element>
+		<element key="classname">HtmlComboBox.PropertyNames.ClassName</element>
+		<element key="value">HtmlComboBox.PropertyNames.ValueAttribute</element>
+		<element key="title">HtmlComboBox.PropertyNames.Title</element>
+		<element key="readonly">HtmlComboBox.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlComboBox.PropertyNames.Enabled</element>
+		<element key="type">HtmlComboBox.PropertyNames.Type</element>
+		<element key="tagname">HtmlComboBox.PropertyNames.TagName</element>
+		<element key="helptext">HtmlComboBox.PropertyNames.HelpText</element>
+		<element key="size">HtmlComboBox.PropertyNames.Size</element>
+		<element key="controldef">HtmlComboBox.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlComboBox.PropertyNames.TagInstance</element>
+		<element key="innertext">HtmlComboBox.PropertyNames.InnerText</element>
+		<element key="selectedindex">HtmlComboBox.PropertyNames.SelectedIndex</element>
+		<element key="selecteditem">HtmlComboBox.PropertyNames.SelectedItem</element>
+		<element key="itemcount">HtmlComboBox.PropertyNames.itemcount</element>
+		<element key="items">HtmlComboBox.PropertyNames.items</element>
+	</ComboBox>
+
+	<Div>
+		<element key="id">HtmlDiv.PropertyNames.Id</element>
+		<element key="name">HtmlDiv.PropertyNames.Name</element>
+		<element key="class">HtmlDiv.PropertyNames.Class</element>
+		<element key="classname">HtmlDiv.PropertyNames.ClassName</element>
+		<element key="value">HtmlDiv.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlDiv.PropertyNames.Text</element>
+		<element key="title">HtmlDiv.PropertyNames.Title</element>
+		<element key="readonly">HtmlDiv.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlDiv.PropertyNames.Enabled</element>
+		<element key="type">HtmlDiv.PropertyNames.Type</element>
+		<element key="tagname">HtmlDiv.PropertyNames.TagName</element>
+		<element key="helptext">HtmlDiv.PropertyNames.HelpText</element>
+		<element key="size">HtmlDiv.PropertyNames.Size</element>
+		<element key="path">HtmlDiv.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlDiv.PropertyNames.Src</element>
+		<element key="controldef">HtmlDiv.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlDiv.PropertyNames.TagInstance</element>
+		<element key="href">HtmlDiv.PropertyNames.Href</element>
+		<element key="innertext">HtmlDiv.PropertyNames.InnerText</element>
+	</Div>
+
+	<FileInput>
+		<element key="id">HtmlFileInput.PropertyNames.Id</element>
+		<element key="name">HtmlFileInput.PropertyNames.Name</element>
+		<element key="class">HtmlFileInput.PropertyNames.Class</element>
+		<element key="classname">HtmlFileInput.PropertyNames.ClassName</element>
+		<element key="value">HtmlFileInput.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlFileInput.PropertyNames.Text</element>
+		<element key="title">HtmlFileInput.PropertyNames.Title</element>
+		<element key="readonly">HtmlFileInput.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlFileInput.PropertyNames.Enabled</element>
+		<element key="type">HtmlFileInput.PropertyNames.Type</element>
+		<element key="tagname">HtmlFileInput.PropertyNames.TagName</element>
+		<element key="helptext">HtmlFileInput.PropertyNames.HelpText</element>
+		<element key="size">HtmlFileInput.PropertyNames.Size</element>
+		<element key="path">HtmlFileInput.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlFileInput.PropertyNames.Src</element>
+		<element key="controldef">HtmlFileInput.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlFileInput.PropertyNames.TagInstance</element>
+		<element key="href">HtmlFileInput.PropertyNames.Href</element>
+		<element key="innertext">HtmlFileInput.PropertyNames.InnerText</element>
+		<element key="controltype">HtmlFileInput.PropertyNames.ControlType</element>
+	</FileInput>
+
+	<Hyperlink>
+		<element key="id">HtmlHyperlink.PropertyNames.Id</element>
+		<element key="name">HtmlHyperlink.PropertyNames.Name</element>
+		<element key="class">HtmlHyperlink.PropertyNames.Class</element>
+		<element key="classname">HtmlHyperlink.PropertyNames.ClassName</element>
+		<element key="value">HtmlHyperlink.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlHyperlink.PropertyNames.Text</element>
+		<element key="title">HtmlHyperlink.PropertyNames.Title</element>
+		<element key="readonly">HtmlHyperlink.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlHyperlink.PropertyNames.Enabled</element>
+		<element key="type">HtmlHyperlink.PropertyNames.Type</element>
+		<element key="tagname">HtmlHyperlink.PropertyNames.TagName</element>
+		<element key="helptext">HtmlHyperlink.PropertyNames.HelpText</element>
+		<element key="size">HtmlHyperlink.PropertyNames.Size</element>
+		<element key="path">HtmlHyperlink.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlHyperlink.PropertyNames.Src</element>
+		<element key="controldef">HtmlHyperlink.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlHyperlink.PropertyNames.TagInstance</element>
+		<element key="href">HtmlHyperlink.PropertyNames.Href</element>
+		<element key="innertext">HtmlHyperlink.PropertyNames.InnerText</element>
+		<element key="target">HtmlHyperlink.PropertyNames.Target</element>
+	</Hyperlink>
+
+	<Button>
+		<element key="id">HtmlButton.PropertyNames.Id</element>
+		<element key="name">HtmlButton.PropertyNames.Name</element>
+		<element key="class">HtmlButton.PropertyNames.Class</element>
+		<element key="classname">HtmlButton.PropertyNames.ClassName</element>
+		<element key="value">HtmlButton.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlButton.PropertyNames.Text</element>
+		<element key="title">HtmlButton.PropertyNames.Title</element>
+		<element key="readonly">HtmlButton.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlButton.PropertyNames.Enabled</element>
+		<element key="type">HtmlButton.PropertyNames.Type</element>
+		<element key="tagname">HtmlButton.PropertyNames.TagName</element>
+		<element key="helptext">HtmlButton.PropertyNames.HelpText</element>
+		<element key="size">HtmlButton.PropertyNames.Size</element>
+		<element key="path">HtmlButton.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlButton.PropertyNames.Src</element>
+		<element key="controldef">HtmlButton.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlButton.PropertyNames.TagInstance</element>
+		<element key="href">HtmlButton.PropertyNames.Href</element>
+		<element key="innertext">HtmlButton.PropertyNames.InnerText</element>
+	</Button>
+
+	<List>
+		<element key="id">HtmlList.PropertyNames.Id</element>
+		<element key="name">HtmlList.PropertyNames.Name</element>
+		<element key="class">HtmlList.PropertyNames.Class</element>
+		<element key="classname">HtmlList.PropertyNames.ClassName</element>
+		<element key="value">HtmlList.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlList.PropertyNames.Text</element>
+		<element key="title">HtmlList.PropertyNames.Title</element>
+		<element key="readonly">HtmlList.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlList.PropertyNames.Enabled</element>
+		<element key="type">HtmlList.PropertyNames.Type</element>
+		<element key="tagname">HtmlList.PropertyNames.TagName</element>
+		<element key="helptext">HtmlList.PropertyNames.HelpText</element>
+		<element key="size">HtmlList.PropertyNames.Size</element>
+		<element key="path">HtmlList.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlList.PropertyNames.Src</element>
+		<element key="controldef">HtmlList.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlList.PropertyNames.TagInstance</element>
+		<element key="href">HtmlList.PropertyNames.Href</element>
+		<element key="innertext">HtmlList.PropertyNames.InnerText</element>
+		<element key="selecteditems">HtmlList.PropertyNames.SelectedItems</element>
+		<element key="selecteditemsasstring">HtmlList.PropertyNames.SelectedItemsAsString</element>
+		<element key="items">HtmlList.PropertyNames.Items</element>
+		<element key="itemcount">HtmlList.PropertyNames.ItemCount</element>
+	</List>
+
+	<TextArea>
+		<element key="id">HtmlTextArea.PropertyNames.Id</element>
+		<element key="name">HtmlTextArea.PropertyNames.Name</element>
+		<element key="class">HtmlTextArea.PropertyNames.Class</element>
+		<element key="classname">HtmlTextArea.PropertyNames.ClassName</element>
+		<element key="value">HtmlTextArea.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlTextArea.PropertyNames.Text</element>
+		<element key="title">HtmlTextArea.PropertyNames.Title</element>
+		<element key="readonly">HtmlTextArea.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlTextArea.PropertyNames.Enabled</element>
+		<element key="type">HtmlTextArea.PropertyNames.Type</element>
+		<element key="tagname">HtmlTextArea.PropertyNames.TagName</element>
+		<element key="helptext">HtmlTextArea.PropertyNames.HelpText</element>
+		<element key="size">HtmlTextArea.PropertyNames.Size</element>
+		<element key="path">HtmlTextArea.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlTextArea.PropertyNames.Src</element>
+		<element key="controldef">HtmlTextArea.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlTextArea.PropertyNames.TagInstance</element>
+		<element key="href">HtmlTextArea.PropertyNames.Href</element>
+		<element key="innertext">HtmlTextArea.PropertyNames.InnerText</element>
+	</TextArea>
+
+	<Custom>
+		<element key="id">HtmlCustom.PropertyNames.Id</element>
+		<element key="name">HtmlCustom.PropertyNames.Name</element>
+		<element key="class">HtmlCustom.PropertyNames.Class</element>
+		<element key="classname">HtmlCustom.PropertyNames.ClassName</element>
+		<element key="value">HtmlCustom.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlCustom.PropertyNames.Text</element>
+		<element key="title">HtmlCustom.PropertyNames.Title</element>
+		<element key="readonly">HtmlCustom.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlCustom.PropertyNames.Enabled</element>
+		<element key="type">HtmlCustom.PropertyNames.Type</element>
+		<element key="tagname">HtmlCustom.PropertyNames.TagName</element>
+		<element key="helptext">HtmlCustom.PropertyNames.HelpText</element>
+		<element key="size">HtmlCustom.PropertyNames.Size</element>
+		<element key="path">HtmlCustom.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlCustom.PropertyNames.Src</element>
+		<element key="controldef">HtmlCustom.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlCustom.PropertyNames.TagInstance</element>
+		<element key="href">HtmlCustom.PropertyNames.Href</element>
+		<element key="innertext">HtmlCustom.PropertyNames.InnerText</element>
+	</Custom>
+
+	<Table>
+		<element key="id">HtmlTable.PropertyNames.Id</element>
+		<element key="name">HtmlTable.PropertyNames.Name</element>
+		<element key="class">HtmlTable.PropertyNames.Class</element>
+		<element key="classname">HtmlTable.PropertyNames.ClassName</element>
+		<element key="value">HtmlTable.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlTable.PropertyNames.Text</element>
+		<element key="title">HtmlTable.PropertyNames.Title</element>
+		<element key="readonly">HtmlTable.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlTable.PropertyNames.Enabled</element>
+		<element key="type">HtmlTable.PropertyNames.Type</element>
+		<element key="tagname">HtmlTable.PropertyNames.TagName</element>
+		<element key="helptext">HtmlTable.PropertyNames.HelpText</element>
+		<element key="size">HtmlTable.PropertyNames.Size</element>
+		<element key="path">HtmlTable.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlTable.PropertyNames.Src</element>
+		<element key="controldef">HtmlTable.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlTable.PropertyNames.TagInstance</element>
+		<element key="href">HtmlTable.PropertyNames.Href</element>
+		<element key="innertext">HtmlTable.PropertyNames.InnerText</element>
+	</Table>
+
+	<RadioButton>
+		<element key="id">HtmlRadioButton.PropertyNames.Id</element>
+		<element key="name">HtmlRadioButton.PropertyNames.Name</element>
+		<element key="class">HtmlRadioButton.PropertyNames.Class</element>
+		<element key="classname">HtmlRadioButton.PropertyNames.ClassName</element>
+		<element key="value">HtmlRadioButton.PropertyNames.ValueAttribute</element>
+		<element key="text">HtmlRadioButton.PropertyNames.Text</element>
+		<element key="title">HtmlRadioButton.PropertyNames.Title</element>
+		<element key="readonly">HtmlRadioButton.PropertyNames.ReadOnly</element>
+		<element key="enabled">HtmlRadioButton.PropertyNames.Enabled</element>
+		<element key="type">HtmlRadioButton.PropertyNames.Type</element>
+		<element key="tagname">HtmlRadioButton.PropertyNames.TagName</element>
+		<element key="helptext">HtmlRadioButton.PropertyNames.HelpText</element>
+		<element key="size">HtmlRadioButton.PropertyNames.Size</element>
+		<element key="path">HtmlRadioButton.PropertyNames.AbsolutePath</element>
+		<element key="src">HtmlRadioButton.PropertyNames.Src</element>
+		<element key="controldef">HtmlRadioButton.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlRadioButton.PropertyNames.TagInstance</element>
+		<element key="href">HtmlRadioButton.PropertyNames.Href</element>
+		<element key="innertext">HtmlRadioButton.PropertyNames.InnerText</element>
+		<element key="selected">HtmlRadioButton.PropertyNames.Selected</element>
+	</RadioButton>
+
+	<Cell>
+		<element key="id">HtmlCell.PropertyNames.Id</element>
+		<element key="name">HtmlCell.PropertyNames.Name</element>
+		<element key="class">HtmlCell.PropertyNames.Class</element>
+		<element key="classname">HtmlCell.PropertyNames.ClassName</element>
+		<element key="value">HtmlCell.PropertyNames.ValueAttribute</element>
+		<element key="title">HtmlCell.PropertyNames.Title</element>
+		<element key="enabled">HtmlCell.PropertyNames.Enabled</element>
+		<element key="type">HtmlCell.PropertyNames.Type</element>
+		<element key="tagname">HtmlCell.PropertyNames.TagName</element>
+		<element key="helptext">HtmlCell.PropertyNames.HelpText</element>
+		<element key="controldef">HtmlCell.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlCell.PropertyNames.TagInstance</element>
+		<element key="innertext">HtmlCell.PropertyNames.InnerText</element>
+	</Cell>
+
+	<Frame>
+		<element key="id">HtmlFrame.PropertyNames.Id</element>
+		<element key="name">HtmlFrame.PropertyNames.Name</element>
+		<element key="class">HtmlFrame.PropertyNames.Class</element>
+		<element key="classname">HtmlFrame.PropertyNames.ClassName</element>
+		<element key="container">HtmlFrame.PropertyNames.Container</element>
+		<element key="value">HtmlFrame.PropertyNames.ValueAttribute</element>
+		<element key="pageurl">HtmlFrame.PropertyNames.PageUrl</element>
+		<element key="title">HtmlFrame.PropertyNames.Title</element>
+		<element key="enabled">HtmlFrame.PropertyNames.Enabled</element>
+		<element key="type">HtmlFrame.PropertyNames.Type</element>
+		<element key="tagname">HtmlFrame.PropertyNames.TagName</element>
+		<element key="helptext">HtmlFrame.PropertyNames.HelpText</element>
+		<element key="controldef">HtmlFrame.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlFrame.PropertyNames.TagInstance</element>
+		<element key="innertext">HtmlFrame.PropertyNames.InnerText</element>
+	</Frame>
+
+	<Label>
+		<element key="id">HtmlLabel.PropertyNames.Id</element>
+		<element key="name">HtmlLabel.PropertyNames.Name</element>
+		<element key="class">HtmlLabel.PropertyNames.Class</element>
+		<element key="classname">HtmlLabel.PropertyNames.ClassName</element>
+		<element key="container">HtmlLabel.PropertyNames.Container</element>
+		<element key="value">HtmlLabel.PropertyNames.ValueAttribute</element>
+		<element key="title">HtmlLabel.PropertyNames.Title</element>
+		<element key="enabled">HtmlLabel.PropertyNames.Enabled</element>
+		<element key="type">HtmlLabel.PropertyNames.Type</element>
+		<element key="tagname">HtmlLabel.PropertyNames.TagName</element>
+		<element key="helptext">HtmlLabel.PropertyNames.HelpText</element>
+		<element key="controldef">HtmlLabel.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlLabel.PropertyNames.TagInstance</element>
+		<element key="innertext">HtmlLabel.PropertyNames.InnerText</element>
+		<element key="displaytext">HtmlLabel.PropertyNames.DisplayText</element>
+	</Label>
+
+	<List>
+		<element key="id">HtmlList.PropertyNames.Id</element>
+		<element key="name">HtmlList.PropertyNames.Name</element>
+		<element key="class">HtmlList.PropertyNames.Class</element>
+		<element key="classname">HtmlList.PropertyNames.ClassName</element>
+		<element key="value">HtmlList.PropertyNames.ValueAttribute</element>
+		<element key="title">HtmlList.PropertyNames.Title</element>
+		<element key="enabled">HtmlList.PropertyNames.Enabled</element>
+		<element key="type">HtmlList.PropertyNames.Type</element>
+		<element key="tagname">HtmlList.PropertyNames.TagName</element>
+		<element key="helptext">HtmlList.PropertyNames.HelpText</element>
+		<element key="size">HtmlList.PropertyNames.Size</element>
+		<element key="controldef">HtmlList.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlList.PropertyNames.TagInstance</element>
+		<element key="innertext">HtmlList.PropertyNames.InnerText</element>
+		<element key="selected">HtmlList.PropertyNames.SelectedItems</element>
+	</List>
+
+	<Row>
+		<element key="id">HtmlRow.PropertyNames.Id</element>
+		<element key="name">HtmlRow.PropertyNames.Name</element>
+		<element key="class">HtmlRow.PropertyNames.Class</element>
+		<element key="classname">HtmlRow.PropertyNames.ClassName</element>
+		<element key="value">HtmlRow.PropertyNames.ValueAttribute</element>
+		<element key="title">HtmlRow.PropertyNames.Title</element>
+		<element key="enabled">HtmlRow.PropertyNames.Enabled</element>
+		<element key="type">HtmlRow.PropertyNames.Type</element>
+		<element key="tagname">HtmlRow.PropertyNames.TagName</element>
+		<element key="helptext">HtmlRow.PropertyNames.HelpText</element>
+		<element key="controldef">HtmlRow.PropertyNames.ControlDefinition</element>
+		<element key="tag">HtmlRow.PropertyNames.TagInstance</element>
+		<element key="innertext">HtmlRow.PropertyNames.InnerText</element>
+	</Row>
+
+	<!--WIN CONTROLS-->
+	<winbutton>
+		<element key="id">WinButton.PropertyNames.ControlId</element>
+		<element key="name">WinButton.PropertyNames.ControlName</element>
+		<element key="class">WinButton.PropertyNames.Class</element>
+		<element key="classname">WinButton.PropertyNames.ClassName</element>
+		<element key="enabled">WinButton.PropertyNames.Enabled</element>
+		<element key="type">WinButton.PropertyNames.ControlType</element>
+		<element key="helptext">WinButton.PropertyNames.HelpText</element>
+	</winbutton>
+
+	<!--WinCell-->
+	<wincell>
+		<element key="id">WinCell.PropertyNames.ControlId</element>
+		<element key="name">WinCell.PropertyNames.ControlName</element>
+		<element key="classname">WinCell.PropertyNames.ClassName</element>
+		<element key="enabled">WinCell.PropertyNames.Enabled</element>
+		<element key="type">WinCell.PropertyNames.ControlType</element>
+		<element key="helptext">WinCell.PropertyNames.HelpText</element>
+		<element key="selected">WinCell.PropertyNames.Selected</element>
+	</wincell>
+
+	<!--WinCheckBox-->
+	<wincheckbox>
+		<element key="id">WinCheckBox.PropertyNames.ControlId</element>
+		<element key="name">WinCheckBox.PropertyNames.ControlName</element>
+		<element key="classname">WinCheckBox.PropertyNames.ClassName</element>
+		<element key="enabled">WinCheckBox.PropertyNames.Enabled</element>
+		<element key="type">WinCheckBox.PropertyNames.ControlType</element>
+		<element key="helptext">WinCheckBox.PropertyNames.HelpText</element>
+		<element key="checked">WinCheckBox.PropertyNames.Checked</element>
+	</wincheckbox>
+
+	<!--WinCheckBoxTreeItem-->
+	<wincheckboxtreeitem>
+		<element key="id">WinCheckBoxTreeItem.PropertyNames.ControlId</element>
+		<element key="name">WinCheckBoxTreeItem.PropertyNames.ControlName</element>
+		<element key="classname">WinCheckBoxTreeItem.PropertyNames.ClassName</element>
+		<element key="enabled">WinCheckBoxTreeItem.PropertyNames.Enabled</element>
+		<element key="type">WinCheckBoxTreeItem.PropertyNames.ControlType</element>
+		<element key="helptext">WinCheckBoxTreeItem.PropertyNames.HelpText</element>
+		<element key="checked">WinCheckBoxTreeItem.PropertyNames.Checked</element>
+		<element key="expanded">WinCheckBoxTreeItem.PropertyNames.Expanded</element>
+		<element key="nodes">WinCheckBoxTreeItem.PropertyNames.Nodes</element>
+		<element key="parentnode">WinCheckBoxTreeItem.PropertyNames.ParentNode</element>
+	</wincheckboxtreeitem>
+
+
+	<!--WinComboBox-->
+	<wincombobox>
+		<element key="id">WinComboBox.PropertyNames.ControlId</element>
+		<element key="name">WinComboBox.PropertyNames.ControlName</element>
+		<element key="classname">WinComboBox.PropertyNames.ClassName</element>
+		<element key="enabled">WinComboBox.PropertyNames.Enabled</element>
+		<element key="type">WinComboBox.PropertyNames.ControlType</element>
+		<element key="helptext">WinComboBox.PropertyNames.HelpText</element>
+		<element key="checked">WinComboBox.PropertyNames.Checked</element>
+		<element key="items">WinComboBox.PropertyNames.Items</element>
+		<element key="selecteditem">WinComboBox.PropertyNames.SelectedItem</element>
+		<element key="selectedindex">WinComboBox.PropertyNames.SelectedIndex</element>
+	</wincombobox>
+
+	<!--WinEdit-->
+	<winedit>
+		<element key="id">winedit.PropertyNames.ControlId</element>
+		<element key="name">winedit.PropertyNames.ControlName</element>
+		<element key="classname">winedit.PropertyNames.ClassName</element>
+		<element key="enabled">winedit.PropertyNames.Enabled</element>
+		<element key="type">winedit.PropertyNames.ControlType</element>
+		<element key="helptext">winedit.PropertyNames.HelpText</element>
+		<element key="password">winedit.PropertyNames.PassWord</element>
+		<element key="readonly">winedit.PropertyNames.ReadOnly</element>
+		<element key="text">winedit.PropertyNames.Text</element>
+	</winedit>
+
+	<!--WinHyperlink-->
+	<winhyperlink>
+		<element key="id">WinHyperlink.PropertyNames.ControlId</element>
+		<element key="name">WinHyperlink.PropertyNames.ControlName</element>
+		<element key="classname">WinHyperlink.PropertyNames.ClassName</element>
+		<element key="enabled">WinHyperlink.PropertyNames.Enabled</element>
+		<element key="type">WinHyperlink.PropertyNames.ControlType</element>
+		<element key="helptext">WinHyperlink.PropertyNames.HelpText</element>
+		<element key="displaytext">WinHyperlink.PropertyNames.DisplayText</element>
+	</winhyperlink>
+
+	<!--WinList-->
+	<winlist>
+		<element key="id">WinList.PropertyNames.ControlId</element>
+		<element key="name">WinList.PropertyNames.ControlName</element>
+		<element key="classname">WinList.PropertyNames.ClassName</element>
+		<element key="enabled">WinList.PropertyNames.Enabled</element>
+		<element key="type">WinList.PropertyNames.ControlType</element>
+		<element key="helptext">WinList.PropertyNames.HelpText</element>
+		<element key="displaytext">WinList.PropertyNames.DisplayText</element>
+		<element key="selecteditems">WinList.PropertyNames.SelectedItems</element>
+		<element key="selecteditemsasstring">WinList.PropertyNames.SelectedItemsAsString</element>
+	</winlist>
+</locator>
+
