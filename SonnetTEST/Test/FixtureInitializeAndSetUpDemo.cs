@@ -8,9 +8,9 @@ using System.Configuration;
 
 namespace SFOA_Automation
 {
-    public class FixtureInitializeAndSetUpDemo:TelerikBase
+    public class FixtureInitializeAndSetUpDemo : TelerikBase
     {
-        #region TestInitialize methods       
+        #region TestInitialize methods
         public void TestInitialize()
         {
             if (IsBrowserClosed)
@@ -23,17 +23,17 @@ namespace SFOA_Automation
         #region TestCleanUp methods
         public void TestCleanUp_General(string _errFileName)
         {
-           string errFileName = GetScreenSnapshot(_errFileName);
-            }
+            string errFileName = GetScreenSnapshot(_errFileName);
+        }
         #endregion
-    
-#region ClassCleanUp Method
+
+        #region ClassCleanUp Method
         public static void ClassCleanUp_General()
         {
             CloseBrowser();
         }
-#endregion
+        #endregion
 
-       
+
     }
 }

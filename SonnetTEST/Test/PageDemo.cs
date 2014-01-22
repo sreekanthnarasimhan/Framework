@@ -6,11 +6,11 @@ using TelerikFramework;
 using System.Configuration;
 
 
-namespace SFOA_Automation.pages
+namespace Test
 {
     public static class PageDemo
     {
-        private static VendorPageDemo _oVendorPage = new VendorPageDemo();
+        private static VendorPageTestDemo1 _oVendorPage = new VendorPageTestDemo1();
         private static HomePageDemo _oHomePage = new HomePageDemo();
         public static void InitializeTestData()
         {
